@@ -1,0 +1,14 @@
+# Betriebssystem und Editoren
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Lokale Laufzeitdateien
+*.log
+*.tmp
+node_modules/
+
+# Lokale Sicherungen und Exporte
+exports/
+backups/
